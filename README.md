@@ -13,6 +13,12 @@ npm install
 npm start
 ```
 
+### Demo Link
+
+I deployed this app on Heroku, the link for the deployed app: 
+
+https://youtube-clone-app-react.herokuapp.com/
+
 ## Built With
 
 * [React](https://reactjs.org/) - Web Framework
