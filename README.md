@@ -1,25 +1,40 @@
-# ReduxSimpleStarter
+# YouTube Clone
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple YouTube Clone built using React.js Framework
 
-### Getting Started
+### Installing
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+In order to install this on your system please run the following commands:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+git clone https://github.com/pratikthakkar92/youtube-clone.git
+cd burger-builder-app
+npm install
+npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## Deployment
+
+In order to deploy this on a live system you will have to run the following commands: 
 
 ```
-> npm install
-> npm start
+npm run build
+npm run deploy
 ```
+
+## Built With
+
+* [React](https://reactjs.org/) - Web Framework
+* [Redux](https://redux.js.org/) - Web Framework
+* [NPM](https://www.npmjs.com/) - Dependency Management
+* [VSCode](https://code.visualstudio.com/) - Code Editor
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* [Stephen Grinder](https://twitter.com/ste_grider)
+* [Udemy](www.udemy.com)
+
