@@ -13,15 +13,6 @@ npm install
 npm start
 ```
 
-## Deployment
-
-In order to deploy this on a live system you will have to run the following commands: 
-
-```
-npm run postinstall
-npm run start
-```
-
 ## Built With
 
 * [React](https://reactjs.org/) - Web Framework
