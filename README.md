@@ -18,8 +18,8 @@ npm start
 In order to deploy this on a live system you will have to run the following commands: 
 
 ```
-npm run build
-npm run deploy
+npm run postinstall
+npm run start
 ```
 
 ## Built With
