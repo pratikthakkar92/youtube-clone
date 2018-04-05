@@ -8,7 +8,7 @@ In order to install this on your system please run the following commands:
 
 ```
 git clone https://github.com/pratikthakkar92/youtube-clone.git
-cd burger-builder-app
+cd youtube-clone
 npm install
 npm start
 ```
